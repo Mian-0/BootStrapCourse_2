@@ -1,0 +1,122 @@
+.bg-custom-for-header {
+    background-color: #eaae00;
+}
+.nav-link {
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+}
+.custom-class-for-header-btn {
+    background-color: #00bfcb;
+    border-color: #00bfcb;
+    border-radius: 0%;
+    padding-left: 20px;
+    padding-right: 20px;
+} 
+.custom-class-for-header-search {
+    border-radius: 0%;
+    border-color: #eaae00;
+    background-color: #ffc400;
+    color: white;
+}
+::placeholder { /* Most modern browsers support this now. */
+    color:    white !important;
+    font-size: 18px;
+ }
+
+ /* 
+ *Hero Section
+ */
+.custom-class-for-hero-container {
+    background-color: #ffc400;
+}
+.custom-class-for-hero-btn-1 {
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    background-color: #00bfcb;
+    border-color: #00bfcb;
+}
+.custom-class-for-hero-btn-2 {
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    margin-left: 5%;
+}
+/* 
+*Our Services 
+*/
+.custom-class-for-ourservices-btn-1 {
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    background-color: #ffc400;
+    border-color: #ffc400;
+    
+}
+/* 
+*Title section
+*/
+.custom-class-for-title-container {
+    background-color: #ffc400;
+}
+.custom-class-for-title-col-title {
+    font-size: 60px;
+}
+/* 
+*Our Services 
+*/
+.custom-class-for-ourservices-2-btn-1 {
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    background-color: #ffc400;
+    border-color: #ffc400;
+}
+/* 
+*Title section2
+*/
+.custom-class-for-title-2-btn-1 {
+    padding: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-size: 20px;
+    background-color: #00bfcb;
+    border-color: #00bfcb;
+}
+/* 
+*Vetcare
+*/
+.custom-class-for-vetcare-section-btn-1 {
+    border-radius: 50%;
+    border: 1px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+/* 
+*Counter
+*/
+.custom-class-for-counter-container {
+    background-image:url('images/counter.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    max-width: 100%;
+    height: auto;
+}
+
+/* 
+*Blog
+*/
+.font-color-for-blog {
+    color: #14c5cf;
+}
+/* 
+*Footer
+*/
+.text-light {
+    text-decoration: none;
+}
